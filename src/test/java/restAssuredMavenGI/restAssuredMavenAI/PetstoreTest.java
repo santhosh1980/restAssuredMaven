@@ -26,7 +26,7 @@ public class PetstoreTest {
 		PetData petdata = new PetData();
 		
 		//main
-		petdata.setId(0);
+		petdata.setId(20);
 		petdata.setName("doggoie");
 		petdata.setStatus("available");
 		
